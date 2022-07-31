@@ -1,0 +1,19 @@
+{
+  "name": "maaouia",
+  "version": "1.0.0",
+  "description": "Projet-3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sayfe-dine/ohmyfood2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sayfe-dine/ohmyfood2/issues"
+  },
+  "homepage": "https://github.com/Sayfe-dine/ohmyfood2#readme"
+}
